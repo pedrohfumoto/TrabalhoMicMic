@@ -21,19 +21,23 @@ O grupo escolheu desenvolver um projeto com um microcontrolador que é **control
 *  Semana 1 - 28/02/2023 à 06/03/2023
     
     ✅ Elaboração da ideia principal do projeto;
+    
     ✅ Listagem de componentes e softwares principais;
+    
     ✅ Criação do repositório e escrita do "README";
+    
     ✅ Escrita dos primeiros programas e realização dos primeiros testes.
     
 *  Semana 2 - 07/03/2023 à 13/03/2023
 
-    ✅ Aprimorar programa para realizar outros comandos por voz (LED RGB);
-    ✅ Estudar e implementar o MQTT.
+    - Aprimorar programa para realizar outros comandos por voz (LED RGB);
+    
+    - Estudar e implementar o MQTT.
     
 *  Semana 3 - 14/03/2023 à 20/03/2023
 
-    ✅ Finalizar projeto;
-    ✅ Gravar vídeo-apresentação.
+    - Finalizar projeto;
+    - Gravar vídeo-apresentação.
 
 
 
