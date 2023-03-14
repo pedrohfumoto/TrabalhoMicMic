@@ -46,6 +46,15 @@ Na primeira semana de trabalho, o grupo conversou sobre possibilidades de projet
 
 Então foi discutido a maneira com que isso seria feito e quais seriam os componentes e softwares utilizados. Decidimos que usaremos o microcontrolador ESP32 e a plataforma **Arduino IDE** para sua programação. Com relação aos componentes, será utilizado um celular ANDROID e LED's que serão controlados. Para sua execução, ficou decidido que seria cirado um aplicativo (MIT App Inventor) para converter o comando de voz em texto e, assim, enviá-lo para o microcontrolador para que o LED possa ser controlado.
 
+Além disso, começamos a esboçar os programas para controlar os LED's e testá-los.
+
+## Semana 2 - 07/03/2023 à 13/03/2023
+
+Nesta semana o projeto começou a ser efetivamente a ser desenvolvido. Então foi criado o aplicativo para ANDROID através do App Inventor. Posteriormente, foi desenvolvido o programa para controlar o LED. Uma importante mudança da semana passada para esta foi a utilização de um LED RGB e com isso, o controle por voz consegue reconhecer a cor com que se deseja ligar o LED. Com esta nova atualização, o código precisou ser modificado para atender essa nova função. 
+
+Um dos desafios encontrados nesta etapa foi conseguir conectar o microcontrolador à uma rede. Primeiramente tentamos conectá-lo ao EDUROAM, porém não estava dando certo e então, como alternativa, conetamos a uma rede compartilhada por um smartphone. Dessa forma a conecção obteve sucesso.
+
+Por fim, foram feitos testes para verificar se tudo estava funcionando conforme o planejado e o resultado foi positivo. Tanto o aplicativo quanto o programa feito estavam controlando o LED da maneira correta.
 
 
 
