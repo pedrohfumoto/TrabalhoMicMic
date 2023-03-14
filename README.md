@@ -40,5 +40,13 @@ O grupo escolheu desenvolver um projeto com um microcontrolador que é **control
     - Gravar vídeo-apresentação.
 
 
+## Semana 1 - 28/02/2023 à 06/03/2023
+
+Na primeira semana de trabalho, o grupo conversou sobre possibilidades de projetos que poderiam ser desenvolvidos. O projeto escolhido foi um controlador por voz. O projeto tem como finaldade controlar atuadores (LED's, motores, etc) utilizando comando de voz. 
+
+Então foi discutido a maneira com que isso seria feito e quais seriam os componentes e softwares utilizados. Decidimos que usaremos o microcontrolador ESP32 e a plataforma **Arduino IDE** para sua programação. Com relação aos componentes, será utilizado um celular ANDROID e LED's que serão controlados. Para sua execução, ficou decidido que seria cirado um aplicativo (MIT App Inventor) para converter o comando de voz em texto e, assim, enviá-lo para o microcontrolador para que o LED possa ser controlado.
+
+
+
 
 
