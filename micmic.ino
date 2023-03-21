@@ -1,5 +1,7 @@
 #include <WiFi.h>
 
+//define os leds com seus pinos, lembrar de colocar o led da placa caso nao for usar RGB
+
 #define led_red 12
 #define led_blue 13
 #define led_green 14
@@ -14,11 +16,14 @@ WiFiServer server(80);
 
 WiFiClient client;
 
+//myresultat é a strig que vem do site do aplicativo de reconhecimento de voz
 String myresultat;
 
+
+//depois de HTTP colocar o ip do celular roteando internet
+//wifi da ufscar mt trabalhoso praconfigurar
 String ReadIncomingRequest()
 {
-
   while(client.available())
   {
     ClientRequest = (client.readStringUntil('\r'));
@@ -132,7 +137,7 @@ void loop() {
     analogWrite(led_red, 255);
     analogWrite(led_green, 0);
     analogWrite(led_blue, 0);}    
-  
+   
 
   client.println("HTTP/1.1 200 OK");
   client.println("Content-Type: text/html");
@@ -144,7 +149,4 @@ void loop() {
   client.flush();
   client.stop();
   delay(1);  
-
-
-
 }
