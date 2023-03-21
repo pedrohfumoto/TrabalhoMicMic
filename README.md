@@ -56,6 +56,14 @@ Um dos desafios encontrados nesta etapa foi conseguir conectar o microcontrolado
 
 Por fim, foram feitos testes para verificar se tudo estava funcionando conforme o planejado e o resultado foi positivo. Tanto o aplicativo quanto o programa feito estavam controlando o LED da maneira correta.
 
+## Semana 3 - 14/03/2023 à 20/03/2023
 
+Para esta semana o projeto já está todo desenvolvido e então foram realizados os últimos testes para confirmar o sucesso do projeto. Além disso foi discutido com os integrantes como seria feita a apresentação do projeto. A ideia inicial é gravar um vídeo explicando o nosso projeto e o modo como ele foi desenvolvido.
+
+A forma para que isso fosse feito seria apresentação de slides, nestes slides estaria o código usado no projeto, o qual seria explicado pelo grupo. Depois da explicação sobre o programa, um vídeo do projeto em funcionamento seria mostrado.
+
+## Semana 4 - 21/03/2023 à 27/03/2023
+
+Esta semana está destinada para a criação propriamente dita do vídeo sobre nosso projeto (como foi descrito acima). E, consequentemente, para sua aprentação no dia 28/03. 
 
 
