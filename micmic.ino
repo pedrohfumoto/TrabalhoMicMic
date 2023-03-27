@@ -1,5 +1,5 @@
 #include <WiFi.h>
-//#include <PubSubClient.h>
+
 
 #define led_red 12
 #define led_blue 13
@@ -43,8 +43,8 @@ void setup() {
 
   Serial.println("START");
 
-  WiFi.begin("Jon", "jujuphjon");
-  WiFi.softAP("Jon", "jujuphjon");
+  WiFi.begin("rede", "senha");
+  WiFi.softAP("rede", "senha");
   Serial.print("Access point running. IP address: ");
   Serial.print(WiFi.softAPIP());
   Serial.println("");
