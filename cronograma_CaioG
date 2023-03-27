@@ -1,0 +1,15 @@
+O trabalho em questão consiste na implementação de um sistema de comando por voz para o acionamento condicional de um LED RGB a partir do controle efetuado por um microprocessador ESP32 via wi-fi.
+
+O cronograma de planejamento e execução da tarefa foi distribuido em 4 semanas, de acordo com as especificações apresentadas a seguir:
+
+1ª semana - Planejamento e pesquisa:
+Foi dedicada para a elaboração do conteúdo (execução por comando de voz) e análise do procedimento para executá-lo. Encontramos um aplicativo no APP inventor do MIT que realizava o processo de modulação e identificação do conteúdo da voz a partir de um celular e o enviava como string para a placa via conexão wi-fi.
+
+2ª semana - Implementação:
+Foi dedicada à criação de uma rotina em verilog para a execução do comando de voz pela placa: nessa semana foi implementada uma rotina mais simples visando apenas testar o reconhecimento de voz do programa do MIT utilizado. Nesta rotina, foram implementados os comandos de acender, apagar e piscar um LED azul embutido na própria placa.
+
+3ª semana - Aprimoramento:
+Durante essa semana implementamos o circuito para conexão da placa com um LED RGB externo, com o uso de protoboard e resistores, e implementamos o código para acender cores diferentes do LED (a partir da combinação entre os canais obtidas em um site (como o https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF por exemplo) e apagar. Também foi cogitada a implementação de uma rotina do tipo MQTT no projeto, mas foi descartada.
+
+4ª semana - Preparação da apresentação:
+Semana destinada a filmagem do funcionamento do projeto, gravação de explicações de cada etapa e montagem do vídeo para apresentação do trabalho.
