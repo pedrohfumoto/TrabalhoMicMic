@@ -2,6 +2,13 @@
 
 O grupo escolheu desenvolver um projeto com um microcontrolador que é **controlado por voz**. O controle será feito através de um aplicativo para ANDROID, o qual transformará a fala do usuário em texto, e o enviará para o microcontrolador. O microcontrolador, por sua vez, irá realizar uma ação de acordo com o texto recebido.
 
+* Integrantes:
+
+  - Alex M S C Soler (633216) como Zatrel
+  - Caio Guelere Aberton (727632) como VdeVeinho
+  - Matheus Poli (758605) como MatheusPoli
+  - Pedro Henrique Fumoto (758912) como pedrohfumoto
+
 * Materiais utilizados:
 
   - Microcontrolador ESP32;
@@ -66,4 +73,5 @@ A forma para que isso fosse feito seria apresentação de slides, nestes slides 
 
 Esta semana está destinada para a criação propriamente dita do vídeo sobre nosso projeto (como foi descrito acima). E, consequentemente, para sua aprentação no dia 28/03. 
 
+O vídeo confeccionado foi upado no drive e está disponível no link: https://drive.google.com/file/d/1ULtXRGTSpEm2VhrV977KaVrJRL7LPeKE/view?usp=sharing
 
