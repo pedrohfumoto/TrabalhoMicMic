@@ -75,3 +75,4 @@ Esta semana está destinada para a criação propriamente dita do vídeo sobre n
 
 O vídeo confeccionado foi upado no drive e está disponível no link: https://drive.google.com/file/d/1ULtXRGTSpEm2VhrV977KaVrJRL7LPeKE/view?usp=sharing
 
+
